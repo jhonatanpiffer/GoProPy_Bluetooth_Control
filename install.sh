@@ -13,3 +13,4 @@ pip install -e .
 cd - 
 
 
+pip install python-daemon
